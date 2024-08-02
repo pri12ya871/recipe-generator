@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Image Classification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload a Food Image</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <input type="file" id="image" name="image" accept="image/*" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result">
+            <h2>Classification Result</h2>
+            <p id="className"></p>
+            <div id="recipeIngredientsBox">
+                <h3>Ingredients</h3>
+                <ul id="recipeIngredients"></ul>
+            </div>
+            <div id="recipeStepsBox">
+                <h3>Recipe Steps</h3>
+                <ol id="recipeSteps"></ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

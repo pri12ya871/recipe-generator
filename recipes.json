@@ -1,0 +1,449 @@
+
+{
+    "butter_naan": {
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup plain yogurt",
+        "1/4 cup milk",
+        "1/4 cup melted butter",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp sugar",
+        "Salt to taste"
+      ],
+      "steps": [
+        "1. Mix flour, baking powder, baking soda, sugar, and salt in a bowl.",
+        "2. Add yogurt, milk, and melted butter to the flour mixture and knead into a soft dough.",
+        "3. Cover and let it rest for 1-2 hours.",
+        "4. Divide dough into small balls and roll out each ball into an oval shape.",
+        "5. Heat a tandoor or grill pan and cook naan until bubbles form and the underside is golden brown.",
+        "6. Brush with melted butter before serving."
+      ]
+    },
+    "chai": {
+      "ingredients": [
+        "2 cups water",
+        "1 cup milk",
+        "2 tsp tea leaves",
+        "2-3 tbsp sugar",
+        "1-2 green cardamom pods (crushed)",
+        "1-inch piece of ginger (grated)"
+      ],
+      "steps": [
+        "1. Boil water with cardamom and ginger in a saucepan.",
+        "2. Add tea leaves and sugar to the boiling water.",
+        "3. Let it simmer for a few minutes.",
+        "4. Add milk and continue boiling until the chai reaches the desired strength.",
+        "5. Strain and serve hot."
+      ]
+    },
+    "chapati": {
+      "ingredients": [
+        "2 cups whole wheat flour",
+        "1/2 tsp salt",
+        "3/4 cup water (or as needed)",
+        "1 tbsp oil (optional)"
+      ],
+      "steps": [
+        "1. Mix flour and salt in a bowl.",
+        "2. Gradually add water and knead to form a soft dough.",
+        "3. Divide the dough into small balls and roll each ball into a thin circle.",
+        "4. Cook on a hot griddle until brown spots appear on both sides.",
+        "5. Optional: Brush with oil or ghee before serving."
+      ]
+    },
+    "chole_bhature": {
+      "ingredients": [
+        "For Chole:",
+        "1 cup chickpeas (soaked overnight)",
+        "1 onion (chopped)",
+        "2 tomatoes (pureed)",
+        "1 green chili (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "Salt to taste",
+        "2 tbsp oil",
+        "For Bhature:",
+        "2 cups all-purpose flour",
+        "1/4 cup yogurt",
+        "1/2 tsp baking powder",
+        "1/2 tsp sugar",
+        "Salt to taste",
+        "Water as needed",
+        "Oil for deep frying"
+      ],
+      "steps": [
+        "1. For Chole: Heat oil in a pan, add cumin seeds, and let them splutter.",
+        "2. Add onions and sauté until golden brown.",
+        "3. Add ginger-garlic paste and green chili, and cook for a minute.",
+        "4. Add tomato puree and cook until the oil separates.",
+        "5. Add spices and salt, mix well.",
+        "6. Add chickpeas and enough water to cover them.",
+        "7. Simmer until chickpeas are cooked and the gravy is thickened.",
+        "8. For Bhature: Mix flour, yogurt, baking powder, sugar, and salt in a bowl.",
+        "9. Add water and knead into a soft dough. Let it rest for 2 hours.",
+        "10. Divide dough into small balls, roll them out, and deep fry until puffed and golden brown."
+      ]
+    },
+    "dal_makhani": {
+      "ingredients": [
+        "1 cup black lentils (soaked overnight)",
+        "1/4 cup kidney beans (soaked overnight)",
+        "1 onion (chopped)",
+        "2 tomatoes (pureed)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1/2 tsp turmeric powder",
+        "1 tsp coriander powder",
+        "1 tsp garam masala",
+        "1/2 cup cream",
+        "2 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "1. Cook lentils and kidney beans in a pressure cooker until soft.",
+        "2. Heat oil in a pan, add cumin seeds, and let them splutter.",
+        "3. Add onions and sauté until golden brown.",
+        "4. Add ginger-garlic paste and cook for a minute.",
+        "5. Add tomato puree and cook until the oil separates.",
+        "6. Add spices and salt, and mix well.",
+        "7. Add cooked lentils and beans, and simmer for 15-20 minutes.",
+        "8. Stir in cream and cook for another 5 minutes.",
+        "9. Garnish with fresh coriander and serve."
+      ]
+    },
+    "dhokla": {
+      "ingredients": [
+        "1 cup rice",
+        "1/2 cup split urad dal",
+        "1/2 cup yogurt",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp baking soda",
+        "1 tsp eno fruit salt",
+        "Salt to taste",
+        "2 tbsp oil",
+        "For tempering: 1 tsp mustard seeds, 1 tsp sesame seeds, 2-3 green chilies (sliced), 10-12 curry leaves"
+      ],
+      "steps": [
+        "1. Soak rice and urad dal in water for 4-5 hours.",
+        "2. Grind to a smooth batter and mix in yogurt.",
+        "3. Add turmeric powder, baking soda, and salt to the batter.",
+        "4. Grease a steaming tray and pour in the batter.",
+        "5. Steam for 15-20 minutes or until a toothpick comes out clean.",
+        "6. For tempering: Heat oil in a pan, add mustard seeds, sesame seeds, green chilies, and curry leaves.",
+        "7. Pour the tempering over the steamed dhokla."
+      ]
+    },
+    "fried_rice": {
+      "ingredients": [
+        "2 cups cooked rice",
+        "1 cup mixed vegetables (carrots, peas, corn)",
+        "1 onion (chopped)",
+        "2 cloves garlic (minced)",
+        "2 tbsp soy sauce",
+        "1 tbsp oil",
+        "Salt and pepper to taste",
+        "2 green onions (chopped)",
+        "1 egg (optional, for added protein)"
+      ],
+      "steps": [
+        "1. Heat oil in a pan, add garlic and onion, and sauté until translucent.",
+        "2. Add mixed vegetables and cook for a few minutes.",
+        "3. Add rice and soy sauce, and stir well.",
+        "4. If using egg, scramble it and mix it into the rice.",
+        "5. Season with salt and pepper.",
+        "6. Garnish with green onions before serving."
+      ]
+    },
+    "idli": {
+      "ingredients": [
+        "1 cup urad dal",
+        "2 cups rice",
+        "1/2 tsp fenugreek seeds",
+        "Salt to taste",
+        "Water as needed"
+      ],
+      "steps": [
+        "1. Soak urad dal, rice, and fenugreek seeds in water for 8 hours.",
+        "2. Grind to a smooth batter, adding water as needed.",
+        "3. Let the batter ferment overnight.",
+        "4. Pour batter into idli molds and steam for 10-15 minutes.",
+        "5. Serve hot with chutney and sambar."
+      ]
+    },
+    "jalebi": {
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1/2 cup cornflour",
+        "1/2 tsp baking powder",
+        "1/2 cup yogurt",
+        "1/2 cup water",
+        "1 cup sugar",
+        "1 cup water (for syrup)",
+        "1/2 tsp cardamom powder",
+        "Oil for deep frying"
+      ],
+      "steps": [
+        "1. Mix flour, cornflour, baking powder, and yogurt to form a smooth batter.",
+        "2. Let the batter rest for 2 hours.",
+        "3. Heat oil in a pan for deep frying.",
+        "4. Fill a piping bag with batter and pipe spiral shapes into the hot oil.",
+        "5. Fry until golden brown, then dip into warm sugar syrup flavored with cardamom.",
+        "6. Serve hot."
+      ]
+    },
+    "kaathi_rolls": {
+      "ingredients": [
+        "4-5 chapatis",
+        "1 cup cooked and shredded chicken or vegetables",
+        "1 onion (sliced)",
+        "1 bell pepper (sliced)",
+        "1 tomato (sliced)",
+        "1/2 cup green chutney",
+        "1/4 cup mayonnaise",
+        "1/4 cup yogurt",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "1. Spread green chutney, mayonnaise, and yogurt on each chapati.",
+        "2. Place cooked chicken or vegetables, onions, bell peppers, and tomatoes on the chapati.",
+        "3. Roll up the chapati tightly and cut into pieces.",
+        "4. Serve with extra chutney or sauce."
+      ]
+    },
+    "kadai_paneer": {
+      "ingredients": [
+        "250g paneer (cubed)",
+        "1 onion (chopped)",
+        "2 tomatoes (pureed)",
+        "1 green bell pepper (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "Salt to taste",
+        "2 tbsp oil"
+      ],
+      "steps": [
+        "1. Heat oil in a pan, add cumin seeds, and let them splutter.",
+        "2. Add onions and sauté until golden brown.",
+        "3. Add ginger-garlic paste and cook for a minute.",
+        "4. Add tomato puree and cook until the oil separates.",
+        "5. Add bell pepper, spices, and salt, and mix well.",
+        "6. Add paneer cubes and cook for a few minutes.",
+        "7. Garnish with fresh coriander and serve."
+      ]
+    },
+    "kulfi": {
+      "ingredients": [
+        "2 cups full-fat milk",
+        "1/2 cup condensed milk",
+        "1/4 cup sugar",
+        "1/4 cup chopped nuts (almonds, pistachios)",
+        "1/2 tsp cardamom powder",
+        "1 tbsp rose water (optional)"
+      ],
+      "steps": [
+        "1. Heat milk in a pan and reduce it to half by simmering.",
+        "2. Add condensed milk, sugar, cardamom powder, and rose water.",
+        "3. Mix well and cook for a few minutes.",
+        "4. Stir in chopped nuts and let it cool.",
+        "5. Pour into kulfi molds and freeze for at least 6 hours.",
+        "6. Unmold and serve."
+      ]
+    },
+    "masala_dosa": {
+      "ingredients": [
+        "For Dosa Batter:",
+        "1 cup rice",
+        "1/2 cup urad dal",
+        "1/2 tsp fenugreek seeds",
+        "Salt to taste",
+        "Water as needed",
+        "For Potato Filling:",
+        "2 large potatoes (boiled and mashed)",
+        "1 onion (chopped)",
+        "1 green chili (chopped)",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp cumin seeds",
+        "1/4 cup fresh coriander (chopped)",
+        "Salt to taste",
+        "2 tbsp oil"
+      ],
+      "steps": [
+        "1. Soak rice, urad dal, and fenugreek seeds in water for 8 hours.",
+        "2. Grind to a smooth batter and let it ferment overnight.",
+        "3. For the potato filling: Heat oil in a pan, add mustard seeds, cumin seeds, and onions.",
+        "4. Sauté until onions are translucent.",
+        "5. Add green chili, turmeric powder, and mashed potatoes.",
+        "6. Mix well and cook for a few minutes. Stir in fresh coriander.",
+        "7. Heat a non-stick pan, pour a ladle of dosa batter, and spread it thin.",
+        "8. Cook until crispy, then place some potato filling in the center and fold the dosa."
+      ]
+    },
+    "momos": {
+      "ingredients": [
+        "For Dough:",
+        "2 cups all-purpose flour",
+        "1/2 tsp salt",
+        "1/2 cup water (or as needed)",
+        "For Filling:",
+        "1 cup finely chopped vegetables (cabbage, carrots, mushrooms)",
+        "1 tbsp soy sauce",
+        "1 tsp ginger-garlic paste",
+        "1 tbsp oil",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "1. For the dough: Mix flour and salt, add water and knead into a soft dough.",
+        "2. For the filling: Heat oil in a pan, add ginger-garlic paste, and vegetables.",
+        "3. Cook until vegetables are tender and the mixture is dry.",
+        "4. Roll out dough into small circles, place filling in the center, and fold into momos.",
+        "5. Steam momos for 10-12 minutes.",
+        "6. Serve with dipping sauce."
+      ]
+    },
+    "paani_puri": {
+      "ingredients": [
+        "For Puri:",
+        "1 cup semolina",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking soda",
+        "Salt to taste",
+        "Water as needed",
+        "Oil for deep frying",
+        "For Pani:",
+        "2 cups water",
+        "1/2 cup tamarind pulp",
+        "1/2 cup mint leaves",
+        "1/4 cup coriander leaves",
+        "2 green chilies",
+        "1 tsp roasted cumin powder",
+        "1/2 tsp black salt",
+        "Salt to taste",
+        "For Filling:",
+        "1 cup boiled chickpeas",
+        "1 cup boiled potatoes (chopped)",
+        "1/2 cup finely chopped onions",
+        "1/2 cup tamarind chutney"
+      ],
+      "steps": [
+        "1. For puri: Mix semolina, flour, baking soda, and salt. Gradually add water and knead into a dough.",
+        "2. Roll out dough thinly and cut into small circles. Deep fry in hot oil until puffed and crispy.",
+        "3. For pani: Blend mint leaves, coriander leaves, green chilies, tamarind pulp, and spices into a smooth paste.",
+        "4. Mix with water and refrigerate.",
+        "5. For filling: Combine chickpeas, potatoes, onions, and chutney.",
+        "6. To serve: Crack a hole in the puri, fill with the mixture, and pour pani over it."
+      ]
+    },
+    "pakode": {
+      "ingredients": [
+        "1 cup gram flour (besan)",
+        "1/2 cup water",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "1/2 tsp cumin seeds",
+        "Salt to taste",
+        "Oil for deep frying",
+        "1 cup chopped vegetables (potatoes, onions, spinach)"
+      ],
+      "steps": [
+        "1. Mix gram flour, turmeric powder, red chili powder, cumin seeds, and salt.",
+        "2. Gradually add water and mix into a thick batter.",
+        "3. Add chopped vegetables and mix well.",
+        "4. Heat oil in a pan and drop spoonfuls of batter into the hot oil.",
+        "5. Fry until golden brown and crispy.",
+        "6. Drain on paper towels and serve hot."
+      ]
+    },
+    "pav_bhaji": {
+      "ingredients": [
+        "For Bhaji:",
+        "2 cups mixed vegetables (potatoes, carrots, peas, bell peppers)",
+        "1 onion (chopped)",
+        "2 tomatoes (pureed)",
+        "1 tbsp ginger-garlic paste",
+        "2 tbsp pav bhaji masala",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "2 tbsp butter",
+        "Salt to taste",
+        "For Pav:",
+        "8 pav buns",
+        "2 tbsp butter",
+        "Chopped coriander for garnish"
+      ],
+      "steps": [
+        "1. Boil mixed vegetables until soft and mash them.",
+        "2. Heat butter in a pan, add onions and cook until translucent.",
+        "3. Add ginger-garlic paste, tomatoes, and spices, and cook until the oil separates.",
+        "4. Add mashed vegetables and cook for a few minutes.",
+        "5. Toast pav buns with butter on a griddle.",
+        "6. Serve bhaji with pav, garnished with chopped coriander."
+      ]
+    },
+    "pizza": {
+      "ingredients": [
+        "For Dough:",
+        "2 cups all-purpose flour",
+        "1 tsp instant yeast",
+        "1/2 tsp salt",
+        "1/2 cup warm water",
+        "1 tbsp olive oil",
+        "For Topping:",
+        "1/2 cup pizza sauce",
+        "1 cup shredded mozzarella cheese",
+        "1/2 cup sliced bell peppers",
+        "1/2 cup sliced mushrooms",
+        "1/4 cup black olives",
+        "1/4 cup sliced onions",
+        "1 tsp dried oregano",
+        "1 tsp dried basil"
+      ],
+      "steps": [
+        "1. For the dough: Mix flour, yeast, and salt. Add warm water and olive oil, and knead into a soft dough.",
+        "2. Let the dough rise for 1-2 hours.",
+        "3. Roll out dough and place on a pizza pan.",
+        "4. Spread pizza sauce over the dough and add toppings.",
+        "5. Bake in a preheated oven at 220°C (428°F) for 15-20 minutes or until the crust is golden brown.",
+        "6. Garnish with dried oregano and basil before serving."
+      ]
+    },
+    "samosa": {
+      "ingredients": [
+        "For Filling:",
+        "2 large potatoes (boiled and mashed)",
+        "1 cup green peas (boiled)",
+        "1 tsp cumin seeds",
+        "1 tsp mustard seeds",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 tsp red chili powder",
+        "Salt to taste",
+        "2 tbsp oil",
+        "For Dough:",
+        "2 cups all-purpose flour",
+        "1/4 cup oil",
+        "1/2 tsp carom seeds (ajwain)",
+        "Salt to taste",
+        "Water as needed",
+        "Oil for deep frying"
+      ],
+      "steps": [
+        "1. For the filling: Heat oil in a pan, add cumin seeds, mustard seeds, and spices.",
+        "2. Add potatoes and peas, mix well, and cook for a few minutes.",
+        "3. For the dough: Mix flour, oil, carom seeds, and salt. Gradually add water and knead into a soft dough.",
+        "4. Divide dough into small balls, roll out, and cut into circles.",
+        "5. Fill with potato mixture, fold into triangles, and seal edges.",
+        "6. Deep fry until golden brown and crispy."
+      ]
+    }
+  }
+  
